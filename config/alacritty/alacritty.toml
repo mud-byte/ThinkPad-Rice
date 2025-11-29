@@ -1,6 +1,6 @@
 [font]
 normal = { family = "JetBrainsMonoNerdFont", style = "Regular" }
-size = 12
+size = 9
 
 [terminal]
 shell = { program = "/bin/zsh" }
@@ -11,7 +11,7 @@ background = "#000000"
 [colors.normal]
 black = "#000000"
 red = "#444444"
-green = "#444444"
+green = "#C7C7C7"
 yellow = "#4C4C4C"
 blue = "#585858"
 magenta = "#646464"
@@ -21,7 +21,7 @@ white = "#B1B1B1"
 [colors.bright]
 black = "#7B7B7B"
 red = "#3B3B3B"
-green = "#444444"
+green = "#C7C7C7"
 yellow = "#4C4C4C"
 blue = "#585858"
 magenta = "#646464"
